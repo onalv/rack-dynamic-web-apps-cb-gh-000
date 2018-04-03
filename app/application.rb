@@ -6,4 +6,8 @@ class Application
     resp.finish
   end
 
+  def write
+
+  end
+
 end
